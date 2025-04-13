@@ -1,4 +1,4 @@
-city_id;city_name;year;pop;density_pop;unemp_rate;gdp_prousd;peoplekilled_in_roadaccident;deaths_roadaccidents;nationals;nationals_%;eu_foreigners;eu_foreigners_%;extraeu_foreigners;extraeu_foreigners_%;nativeborn;nativeborn_%;cars;cars_perc;Capital;cold_weather;URSS_Influence;Closeness;Culural_affinity;
+city_id; city_name; year; pop; density_pop; unemp_rate; gdp_prousd; peoplekilled_in_roadaccident;deaths_roadaccidents;nationals;nationals_%;eu_foreigners;eu_foreigners_%;extraeu_foreigners;extraeu_foreigners_%;nativeborn;nativeborn_%;cars;cars_perc;Capital;cold_weather;URSS_Influence;Closeness;Culural_affinity;
 1;Tallinn;2000;400378;2518;;24973;;;284684;71;569;0.14;111334;27.81;;;119632;29.88;1;1;1;1;1
 1;Tallinn;2001;399685;2514;13;26849;0.65;26;;;;;;;;;;;1;1;1;1;1
 1;Tallinn;2002;398434;2506;;28989;;;;;;;;;;;;;1;1;1;1;1
